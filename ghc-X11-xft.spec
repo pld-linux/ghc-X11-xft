@@ -2,7 +2,7 @@
 Summary:	A Haskell binding to the X11-xft graphics library
 Name:		ghc-%{pkgname}
 Version:	0.3.1
-Release:	3
+Release:	4
 License:	BSD
 Group:		Development/Languages
 Source0:	http://hackage.haskell.org/packages/archive/%{pkgname}/%{version}/%{pkgname}-%{version}.tar.gz
